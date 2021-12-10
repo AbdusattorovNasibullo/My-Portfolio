@@ -1,0 +1,392 @@
+/* media 1065px-1200px */
+
+@media (min-width:1065px) and (max-width:1200px) {
+    .nav-link {
+        font-size: 18px;
+    }
+    .header-text h1 {
+        font-size:40px !important;
+    }
+    .header-text p {
+        font-size: 20px ;
+        margin-top: 20px;
+    }
+    .date-item {
+        width: 33%;
+    }
+    .date-item h4 {
+        font-size: 20px;
+    }
+    .text-1 h5 {
+        font-size: 18px ;
+    }
+    .carousel-box h1 {
+        font-size: 30px;
+    }
+    .carousel-box img {
+        height: 170px;
+    }
+    .h1-1 {
+        font-size: 35px;
+    }
+    .box-2 p {
+        font-size: 19px;
+    }
+    .h1-2 {
+        font-size: 35px;
+        margin: 20px 0;
+    }
+    .card-effect {
+        text-align: center !important;
+    }
+    .user-card h3 {
+        font-size: 18px;
+    }
+    .user-card img {
+        width: 50px;
+        height: 50px;   
+    }
+    .block-header h1 {
+        font-size: 35px;
+    }
+    .block-header {
+        /* border: 1px solid red; */
+        width: 100%;
+        margin: 0 auto;
+    }
+    .block-header button {
+        width: 140px;
+        height: 40px;
+        border-radius: 10px;
+    }
+    .block-user {
+        margin-top: 70px;
+        width: 100%;
+        margin: 0 auto;
+        transform: translateY(60px);
+    }
+    .style-user img {
+        width:150%;
+
+    }
+    .block-user h3 {
+        font-size: 22px;
+    }
+    .block-user p {
+        font-size: 15px;
+    }
+    .footer-block {
+        height: 330px;
+        transform: translateY(50px);
+    }
+    .footer-block img {
+        transform: translateY(-32px);
+
+    }
+    .footer-text {
+        margin-left: 500px;
+    }
+    .footer-text h1 {
+        font-size: 35px;
+    }
+    .footer-text p {
+        font-size: 15px;
+    }
+    .footer-text input {
+        height: 50px;
+        width: 230px;
+    }
+    .footer-text button {
+        height: 50px;
+        width: 80px;
+    }
+}
+
+/* media 850px-1065px */
+
+@media (min-width:850px) and (max-width:1064px) {
+}
+
+/* media  769px-849px*/
+
+@media (min-width:769px) and (max-width:849px) {
+    .nav-link {
+        font-size: 16px;
+        border: 1px solid red;
+        margin: 8px;
+    } 
+    .singup {
+        border: 1px solid red;
+        width: 33%;
+    }
+    .header-text h1 {
+        font-size:40px !important;
+        border: 1px solid red;
+    }
+    .header-text p {
+        font-size: 20px ;
+        margin-top: 20px;
+        border: 1px solid red;
+    }
+    .date-item {
+        width: 33%;
+        border: 1px solid red;
+    }
+    .date-item h4 {
+        font-size: 20px;
+        border: 1px solid red;
+    }
+    .text-1 h5 {
+        font-size: 18px ;
+        border: 1px solid red;
+    }
+    .carousel-box h1 {
+        font-size: 30px;
+        border: 1px solid red;
+    }
+    .carousel-box img {
+        height: 170px;
+        border: 1px solid red;
+    }
+    .h1-1 {
+        font-size: 35px;
+        border: 1px solid red;
+    }
+    .box-2 p {
+        font-size: 19px;
+        border: 1px solid red;
+    }
+    .h1-2 {
+        font-size: 35px;
+        margin: 20px 0;
+        border: 1px solid red;
+    }
+    .card-effect {
+        text-align: center !important;
+        border: 1px solid red;
+    }
+    .user-card h3 {
+        font-size: 18px;
+        border: 1px solid red;
+    }
+    .user-card img {
+        width: 50px;
+        height: 50px;
+        border: 1px solid red;   
+    }
+    .block-header h1 {
+        font-size: 35px;
+        border: 1px solid red;
+    }
+    .block-header {
+        /* border: 1px solid red; */
+        width: 100%;
+        margin: 0 auto;
+        border: 1px solid red;
+    }
+    .block-header button {
+        width: 140px;
+        height: 40px;
+        border-radius: 10px;
+        border: 1px solid red;
+    }
+    .block-user {
+        margin-top: 70px;
+        width: 100%;
+        margin: 0 auto;
+        transform: translateY(60px);
+        border: 1px solid red;
+    }
+    .style-user img {
+        width:150%;
+        border: 1px solid red;
+
+    }
+    .block-user h3 {
+        font-size: 22px;
+        border: 1px solid red;
+    }
+    .block-user p {
+        font-size: 15px;
+        border: 1px solid red;
+    }
+    .footer-block {
+        height: 330px;
+        transform: translateY(50px);
+        border: 1px solid red;
+    }
+    .footer-block img {
+        transform: translateY(-32px);
+        border: 1px solid red;
+
+    }
+    .footer-text {
+        margin-left: 500px;
+        border: 1px solid red;
+    }
+    .footer-text h1 {
+        font-size: 35px;
+        border: 1px solid red;
+    }
+    .footer-text p {
+        font-size: 15px;
+        border: 1px solid red;
+    }
+    .footer-text input {
+        height: 50px;
+        width: 230px;
+        border: 1px solid red;
+    }
+    .footer-text button {
+        height: 50px;
+        width: 80px;
+        border: 1px solid red;
+    }
+
+}
+
+/* media 577px-768px */
+
+@media (min-width:577px) and (max-width:768px) {
+    .nav-link {
+        font-size: 16px;
+        border: 1px solid red;
+        margin: 8px;
+    } 
+    .singup {
+        border: 1px solid red;
+        width: 33%;
+    }
+    .header-text h1 {
+        font-size:40px !important;
+        border: 1px solid red;
+    }
+    .header-text p {
+        font-size: 20px ;
+        margin-top: 20px;
+        border: 1px solid red;
+    }
+    .date-item {
+        width: 33%;
+        border: 1px solid red;
+    }
+    .date-item h4 {
+        font-size: 20px;
+        border: 1px solid red;
+    }
+    .text-1 h5 {
+        font-size: 18px ;
+        border: 1px solid red;
+    }
+    .carousel-box h1 {
+        font-size: 30px;
+        border: 1px solid red;
+    }
+    .carousel-box img {
+        height: 170px;
+        border: 1px solid red;
+    }
+    .h1-1 {
+        font-size: 35px;
+        border: 1px solid red;
+    }
+    .box-2 p {
+        font-size: 19px;
+        border: 1px solid red;
+    }
+    .h1-2 {
+        font-size: 35px;
+        margin: 20px 0;
+        border: 1px solid red;
+    }
+    .card-effect {
+        text-align: center !important;
+        border: 1px solid red;
+    }
+    .user-card h3 {
+        font-size: 18px;
+        border: 1px solid red;
+    }
+    .user-card img {
+        width: 50px;
+        height: 50px;
+        border: 1px solid red;   
+    }
+    .block-header h1 {
+        font-size: 35px;
+        border: 1px solid red;
+    }
+    .block-header {
+        /* border: 1px solid red; */
+        width: 100%;
+        margin: 0 auto;
+        border: 1px solid red;
+    }
+    .block-header button {
+        width: 140px;
+        height: 40px;
+        border-radius: 10px;
+        border: 1px solid red;
+    }
+    .block-user {
+        margin-top: 70px;
+        width: 100%;
+        margin: 0 auto;
+        transform: translateY(60px);
+        border: 1px solid red;
+    }
+    .style-user img {
+        width:150%;
+        border: 1px solid red;
+
+    }
+    .block-user h3 {
+        font-size: 22px;
+        border: 1px solid red;
+    }
+    .block-user p {
+        font-size: 15px;
+        border: 1px solid red;
+    }
+    .footer-block {
+        height: 330px;
+        transform: translateY(50px);
+        border: 1px solid red;
+    }
+    .footer-block img {
+        transform: translateY(-32px);
+        border: 1px solid red;
+
+    }
+    .footer-text {
+        margin-left: 500px;
+        border: 1px solid red;
+    }
+    .footer-text h1 {
+        font-size: 35px;
+        border: 1px solid red;
+    }
+    .footer-text p {
+        font-size: 15px;
+        border: 1px solid red;
+    }
+    .footer-text input {
+        height: 50px;
+        width: 230px;
+        border: 1px solid red;
+    }
+    .footer-text button {
+        height: 50px;
+        width: 80px;
+        border: 1px solid red;
+    }
+    .carousel-mobile {
+        display: block;
+    }
+    .carousel-lg {
+        display: none;
+    }
+
+}
+
+/* media */
